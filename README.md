@@ -29,3 +29,10 @@ Here are some ideas to get you started:
 <img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/vuedotjs-color.svg"> 
 <img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/git-color.svg"> 
 <img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/figma-color.svg">
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=550&size=25&pause=1000&color=39EDF7&repeat=false&width=435&lines=Statistics+%F0%9F%93%8A)](https://git.io/typing-svg)
+---
+![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
