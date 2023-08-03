@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=650&size=28&pause=1000&color=36B3F7&repeat=false&width=480&height=60&lines=HI%2C+I'm+Mikhail+%F0%9F%91%8B)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=550&size=27&pause=1000&color=36B3F7&repeat=false&width=480&height=60&lines=Junior+Frontend+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=550&size=27&duration=1000&pause=800&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=HI%2C+I'm+Mikhail+%F0%9F%91%8B;Junior+Frontend+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ---
 
