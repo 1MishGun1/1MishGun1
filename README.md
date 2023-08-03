@@ -34,5 +34,8 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=550&size=25&pause=1000&color=39EDF7&repeat=false&width=435&lines=Statistics+%F0%9F%93%8A)](https://git.io/typing-svg)
 
-![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=1MishGun1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1MishGun1&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1MishGun1&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1MishGun1&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1MishGun1&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1MishGun1&theme=github_dark&utcOffset=8) 
