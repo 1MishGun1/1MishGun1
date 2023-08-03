@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=650&size=28&pause=1000&color=23F73C&repeat=false&width=480&height=60&lines=HI%2C+I'm+Mikhail+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=650&size=28&pause=1000&color=36B3F7&repeat=false&width=480&height=60&lines=HI%2C+I'm+Mikhail+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=550&size=27&pause=1000&color=23F73C&repeat=false&width=480&height=60&lines=Started+Frontend+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=550&size=27&pause=1000&color=36B3F7&repeat=false&width=480&height=60&lines=Junior+Frontend+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=550&size=25&pause=1000&color=39EDF7&repeat=false&width=435&lines=Stack+technology+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+---
+<img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/html5-color.svg"><img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/css3-color.svg"> 
+<img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/sass-color.svg"> 
+<img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/javascript-color.svg"> 
+<img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/vuedotjs-color.svg"> 
+<img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/git-color.svg"> 
+<img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/figma-color.svg">
