@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=550&size=27&duration=1000&pause=800&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=HI%2C+I'm+Mikhail+%F0%9F%91%8B;Junior+Frontend+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=550&size=27&duration=1000&pause=800&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=HI%2C+I'm+Mikhail+%F0%9F%91%8B;Junior+Frontend+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ---
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=550&size=25&pause=1000&color=39EDF7&repeat=false&width=435&lines=Statistics+%F0%9F%93%8A)](https://git.io/typing-svg)
-
+-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1MishGun1&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1MishGun1&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1MishGun1&theme=github_dark) 
