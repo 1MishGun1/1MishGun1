@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=550&size=25&pause=1000&color=39EDF7&random=false&width=435&lines=I+am+currently+studying+%F0%9F%93%9A)](https://git.io/typing-svg)
+
+
+---
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=550&size=25&pause=1000&color=39EDF7&repeat=false&width=435&lines=Statistics+%F0%9F%93%8A)](https://git.io/typing-svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1MishGun1&theme=github_dark) 
