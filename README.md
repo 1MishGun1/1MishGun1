@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 <img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/figma-color.svg">
 
 ---
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=550&size=25&pause=1000&color=39EDF7&random=false&width=435&lines=I+am+currently+studying+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=550&size=25&pause=1000&color=39EDF7&repeat=false&random=false&width=435&lines=I+am+currently+studying+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 <img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/react-color.svg"><img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/nextdotjs-color.svg">
 
