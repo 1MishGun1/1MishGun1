@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/html5-color.svg"><img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/css3-color.svg"> 
 <img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/sass-color.svg"> 
 <img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/javascript-color.svg"> 
+<img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/typescript-color.svg"> 
 <img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/react-color.svg">
 <img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/nextdotjs-color.svg">
 <img width="32px" height="32px" src="https://github.com/1MishGun1/1MishGun1/blob/main/img/vuedotjs-color.svg"> 
